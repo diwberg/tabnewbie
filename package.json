@@ -1,0 +1,17 @@
+{
+  "name": "tabnewbie",
+  "version": "1.0.0",
+  "description": "Implementação de uma copia da shope do tabnews do curso.dev para aperfeiçoar minhas habilidades em Programação, se você está no futuro, e achou esse repositorio como tabpro, significa que eu terminei o curso, e ele cumpriu com o prometido, sou um programador melhor, já pode me contratar.",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
+
